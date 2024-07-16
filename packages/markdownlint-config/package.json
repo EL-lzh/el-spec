@@ -1,0 +1,15 @@
+{
+  "name": "el-markdownlint-config",
+  "version": "0.0.1",
+  "description": "文档规范",
+  "author": "el",
+  "license": "ISC",
+  "main": "index.json",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}

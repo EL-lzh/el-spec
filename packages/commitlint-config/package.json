@@ -1,0 +1,15 @@
+{
+  "name": "el-commitlint-config",
+  "version": "0.0.1",
+  "author": "el",
+  "license": "ISC",
+  "main": "index.js",
+  "keywords": [
+    "encode",
+    "commit",
+    "lint"
+  ],
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
