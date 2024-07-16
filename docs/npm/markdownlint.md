@@ -5,7 +5,7 @@ categories:
 tags:
   - 工程规范
 author:
- name: el
+  name: el
   link: https://github.com/EL-lzh/el-spec
 ---
 
