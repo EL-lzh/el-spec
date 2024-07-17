@@ -1,0 +1,37 @@
+{
+  "name": "el-eslint-plugin",
+  "version": "0.0.1",
+  "description": "自定义eslint插件",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "el",
+  "homepage": "https://github.com/EL-lzh/el-spec#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "files": [
+    "configs/",
+    "rules/",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EL-lzh/el-spec.git"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run test",
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/EL-lzh/el-spec/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "jest": "^24.9.0"
+  }
+}
